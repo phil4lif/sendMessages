@@ -1,6 +1,6 @@
 ### `Send Tags Takehome - Deadline/Due: Friday, 9.4.20 5:00 PT` 
 
-At Noterouter, we use attributed such as tags, organization, or names that are assigned to our clients' recipients in order determine who we want to send messages to. For this takehome, we created a rudimentary sending system for you to finish and implement.
+At Noterouter, we use attributes such as tags, organization, or names that are assigned to our clients' recipients in order determine who we want to send messages to. For this takehome, we created a rudimentary sending system for you to finish and implement.
 
 This React App is partially implemented with the following inputs defined:
 
